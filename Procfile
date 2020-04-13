@@ -1,1 +1,1 @@
-web: python  vd01.py 80  --log-file -
+web: python  fsk-001.py 80  --log-file -
