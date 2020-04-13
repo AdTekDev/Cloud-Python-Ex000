@@ -1,6 +1,9 @@
 web.py
 gunicorn
-flask
 Jinja2
 Werkzeug
 
+flask
+flask-jsonpify
+flask-sqlalchemy
+flask-restful
