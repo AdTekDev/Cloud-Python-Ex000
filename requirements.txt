@@ -3,7 +3,19 @@ gunicorn
 Jinja2
 Werkzeug
 
-flask
-flask-jsonpify
-flask-sqlalchemy
-flask-restful
+aniso8601
+appdirs
+click
+Flask
+Flask-Jsonpify
+Flask-RESTful
+Flask-SQLAlchemy
+
+itsdangerous
+MarkupSafe
+packaging
+pyparsing
+python-dateutil
+pytz
+six
+SQLAlchemy
